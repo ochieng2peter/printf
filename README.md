@@ -58,7 +58,7 @@
 
 ### Authors
 
-- [Ochieng2peter]
+- Ochieng2peter 👣
 - [@Trevor Carson Jey]( https://github.com/Trevor800)
 
 
